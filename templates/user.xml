@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="cl" value="console.log($END$);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
