@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="cl" value="console.log($END$);" toReformat="true" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$);" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />
